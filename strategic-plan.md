@@ -19,6 +19,20 @@ _Highlight the goals of 2015 Strategic plan and briefly discuss progress / short
 **Describe the organization and team.**
 **What is your current organizational structure?** Who is on your core team? What skills and backgrounds are missing from your core team?
 
+# Current Leadership Team
+
+**Co-Captain
+
+**Co-Captain
+
+**Community Organizer
+
+# Vacant Leadership Team Positions
+
+**Delivery Lead
+
+**Story Teller
+
 **How will your core team share responsibility?** How often will your core team meet? How many hours a week does everyone have to volunteer? How will you make decisions?
 No need to write this down but good to discuss and set expectations.
 
@@ -63,8 +77,3 @@ Now think through any fixed costs you’ll have throughout the year. These might
 1. Crowdfunding? If so, how will you execute?
 2. Individual giving campaign? If so, how will you execute?
 3. Organizational sponsorship? If so, what / how?
-
-
-
-
-   
