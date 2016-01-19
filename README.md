@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Allen616/2016-FriendlyCode-Strategic-Plan.png?label=ready&title=Ready)](https://waffle.io/Allen616/2016-FriendlyCode-Strategic-Plan)
 # 2016-strategic-plan
 Forked from Friendly Code's 2016 Strategic Plan
 
